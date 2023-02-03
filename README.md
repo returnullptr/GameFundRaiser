@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://github.com/returnullptr/GameFundRaiser/web102_prework.gif)
+<img src="https://i.imgur.com/FgenoA0.gif" width=2000><br> 
 
 
 GIF created with LiceCap
