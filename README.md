@@ -10,10 +10,10 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-* [Y] The introduction section explains the background of the company and how many games remain unfunded.
-* [Y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [Y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [Y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/Ax49YqQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/Ax49YqQ.gif" width=2000><br> 
 
 
 GIF created with LiceCap
